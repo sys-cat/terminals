@@ -1,3 +1,5 @@
+set backspace=start,eol,indent
+
 "neobundle
 set nocompatible
 filetype on

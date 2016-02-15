@@ -11,3 +11,5 @@ if [[ -s "${ZDOTDIR:-$HOME}/.zprezto/init.zsh" ]]; then
 fi
 
 # Customize to your needs...
+export PATH=~/Library/Python/2.7/bin:$PATH
+. /Users/sasakimakoto/.zprofile
